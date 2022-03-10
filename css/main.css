@@ -75,13 +75,36 @@ only screen and (max-device-width : 720px){
 @media only screen and (max-width : 530px),
 only screen and (max-device-width : 530px){
     .galleryItem {width: 21%;}
+    .labels{font-size: 9px;}
 }
 
 @media only screen and (max-width : 320px),
 only screen and (max-device-width : 320px){
     .galleryItem {width: 29.33333%;}
     .galleryItem img {width: 29.33333%;}
+    .labels{font-size: 9px;}
 }
 .center{
     margin: 0px auto;
+}
+body{
+   margin-top: 20px !important;
+   margin-bottom: 20px !important;
+}
+#myfooter{
+    font-size: 9px;
+    margin: 5px;
+}
+#middlePremiersChiffres{
+    background: #e7ecf2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+h6{
+    margin-top: 10px !important;
+    text-decoration: underline;
+    text-decoration-color: black;
 }
