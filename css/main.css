@@ -97,14 +97,31 @@ body{
 }
 #middlePremiersChiffres{
     background: #e7ecf2;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 15px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
 }
 h6{
-    margin-top: 10px !important;
+    margin: 15px !important;
     text-decoration: underline;
     text-decoration-color: black;
+}
+
+#middlepremierschiffreslikes{
+    background: #0f0b32;
+    padding: 15px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color:white;
+}
+.center{
+    text-align: center;
+}
+.axisWhite .tick text{
+    fill: red;
+}
+.axisWhite .tick line{
+    fill: red;
 }
