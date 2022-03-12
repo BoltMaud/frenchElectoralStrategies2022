@@ -96,51 +96,54 @@ $( "#formcountposts" ).change(function() {
 
 // -----
 
-
-d3.csv("sources/data/totallikes_to_03_10_2022.csv").then(function(data) {
-   const svg = d3.select("#premierschiffreslikes")
-   .append("svg")
-      .attr("width", width  + margin.left + margin.right )
-      .attr("height", height + margin.top + margin.bottom )
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-      svg.append("g").enter()
-      .data(data)
-      .attr("class", "model_name");
-    const xScale0 = d3.scaleBand().range([0, width ]).padding(.2);
-    const xScale1 = d3.scaleBand();
-    const yScale = d3.scaleLinear().range([height, 0]);
-    xScale0.domain(data.map(d => d.id));
-    xScale1.domain(['youtube', 'instagram','twitter']).range([0, xScale0.bandwidth()]);
-    yScale.domain([0, d3.max(data, d =>  parseInt(d.twitter))]);
-    svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(xScale0).tickSize(0))
-    .selectAll("text")
-        .style("text-anchor", "end")
-        .attr("dx", "-.7em")
-        .attr("dy", ".9em")
-        .attr("transform", "rotate(-65)");
-    svg.append("g")
-    .call(d3.axisRight(yScale));
-
-    var model_name = svg.selectAll(".model_name")
+function multiplebarchart(datapath, divid){
+    d3.csv(datapath).then(function(data) {
+       const svg = d3.select(divid)
+       .append("svg")
+          .attr("width", width  + margin.left + margin.right )
+          .attr("height", height + margin.top + margin.bottom )
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+          svg.append("g").enter()
           .data(data)
-          .enter().append("g")
-          .attr("class", "model_name")
-          .attr("transform", d => `translate(${xScale0(d.id)},0)`);
-    var colors = {"youtube": "red", "instagram":"#5851DB", "twitter":"#00acee"};
-    for (const element of ["youtube","instagram","twitter"]) {
-      model_name.selectAll(".bar."+element)
-          .data(d => [d])
-          .enter()
-          .append("rect")
-          .attr("class", "bar "+ element)
-        .style("fill",colors[element])
-          .attr("x", d => xScale1(element))
-          .attr("y", d => yScale(+d[element]))
-          .attr("width", xScale1.bandwidth())
-          .attr("height", d => {
-            return height  - yScale(+d[element])
-          });
-    }
-});
+          .attr("class", "model_name");
+        const xScale0 = d3.scaleBand().range([0, width ]).padding(.2);
+        const xScale1 = d3.scaleBand();
+        const yScale = d3.scaleLinear().range([height, 0]);
+        xScale0.domain(data.map(d => d.id));
+        xScale1.domain(['youtube', 'instagram','twitter']).range([0, xScale0.bandwidth()]);
+        yScale.domain([0, d3.max(data, d =>  parseInt(d.twitter))]);
+        svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(xScale0).tickSize(0))
+        .selectAll("text")
+            .style("text-anchor", "end")
+            .attr("dx", "-.7em")
+            .attr("dy", ".9em")
+            .attr("transform", "rotate(-65)");
+        svg.append("g")
+        .call(d3.axisRight(yScale));
+
+        var model_name = svg.selectAll(".model_name")
+              .data(data)
+              .enter().append("g")
+              .attr("class", "model_name")
+              .attr("transform", d => `translate(${xScale0(d.id)},0)`);
+        var colors = {"youtube": "red", "instagram":"#5851DB", "twitter":"#00acee"};
+        for (const element of ["youtube","instagram","twitter"]) {
+          model_name.selectAll(".bar."+element)
+              .data(d => [d])
+              .enter()
+              .append("rect")
+              .attr("class", "bar "+ element)
+            .style("fill",colors[element])
+              .attr("x", d => xScale1(element))
+              .attr("y", d => yScale(+d[element]))
+              .attr("width", xScale1.bandwidth())
+              .attr("height", d => {
+                return height  - yScale(+d[element])
+              });
+        }
+    });
+}
+multiplebarchart("sources/data/totallikes_to_03_10_2022.csv","#premierschiffreslikes")
+multiplebarchart("sources/data/meanlikes_to_03_10_2022.csv","#premierschiffresmeanlikes")

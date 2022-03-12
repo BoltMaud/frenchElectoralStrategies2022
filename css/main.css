@@ -97,10 +97,6 @@ body{
 }
 #middlePremiersChiffres{
     background: #e7ecf2;
-    padding: 15px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
 }
 h6{
     margin: 15px !important;
@@ -110,10 +106,10 @@ h6{
 
 #middlepremierschiffreslikes{
     background: #0f0b32;
-    padding: 15px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
+    color:white;
+}
+#middlepremierschiffresmeanlikes{
+    background: #0f0b32;
     color:white;
 }
 .center{
@@ -125,3 +121,10 @@ h6{
 .axisWhite .tick line{
     fill: red;
 }
+.boxforviz{
+    padding: 15px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
