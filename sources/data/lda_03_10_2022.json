@@ -1,0 +1,3051 @@
+{
+    "youtube": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.14407496",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.076786004",
+                                "name": "droit"
+                            },
+                            {
+                                "size": "0.06626868",
+                                "name": "vie"
+                            },
+                            {
+                                "size": "0.053110264",
+                                "name": "crise"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08680307",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.083333135",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.081075095",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.07844881",
+                                "name": "cole"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.19892263",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.07737806",
+                                "name": "campagne"
+                            },
+                            {
+                                "size": "0.067712106",
+                                "name": "gouvernement"
+                            },
+                            {
+                                "size": "0.0668342",
+                                "name": "enfants"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.21393353",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.051028896",
+                                "name": "société"
+                            },
+                            {
+                                "size": "0.047001943",
+                                "name": "devons"
+                            },
+                            {
+                                "size": "0.046693712",
+                                "name": "public"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nathalie Arthaud"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.06529873",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.04524239",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.0427258",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.042708654",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.112477385",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.080096625",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.068240836",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.06017867",
+                                "name": "faire"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.23013498",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.053331383",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.048948996",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.038558725",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.049450718",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.047999863",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.03853144",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.03649079",
+                                "name": "grand"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nicolas Dupont-Aignan"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.07848571",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.060490124",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.05898812",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.05660414",
+                                "name": "emmanuel"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.04114432",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.03884306",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.035907734",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.033244897",
+                                "name": "face"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.070570834",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.043881617",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.03692917",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.031406034",
+                                "name": "cole"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.19965433",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.07026941",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.04247469",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.033454712",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Anne Hidalgo"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.13239759",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.101831794",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.07343637",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.050409682",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.25970975",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.08690087",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.07595205",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.05524638",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.057158034",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.054728054",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.045354247",
+                                "name": "jamais"
+                            },
+                            {
+                                "size": "0.04235429",
+                                "name": "enfants"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.13860786",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.088750504",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.04922137",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.041639116",
+                                "name": "meeting"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Yannick Jadot"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.14138363",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.108959496",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.10625592",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.1019592",
+                                "name": "emmanuel"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08673973",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.08095",
+                                "name": "campagne"
+                            },
+                            {
+                                "size": "0.069896825",
+                                "name": "projet"
+                            },
+                            {
+                                "size": "0.063714944",
+                                "name": "programme"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.3857143",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.05442328",
+                                "name": "prix"
+                            },
+                            {
+                                "size": "0.04982302",
+                                "name": "gouvernement"
+                            },
+                            {
+                                "size": "0.04726739",
+                                "name": "propose"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.2342913",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.08680721",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.06972754",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.059680056",
+                                "name": "face"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Marine Le Pen"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.12808003",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.09111961",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.06927038",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.03993102",
+                                "name": "situation"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.10442601",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.053092342",
+                                "name": "tat"
+                            },
+                            {
+                                "size": "0.049994823",
+                                "name": "jamais"
+                            },
+                            {
+                                "size": "0.038388584",
+                                "name": "jeunes"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.07239667",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.06407833",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.05741132",
+                                "name": "campagne"
+                            },
+                            {
+                                "size": "0.051029745",
+                                "name": "république"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.3611711",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.07682938",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.055536862",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.0463685",
+                                "name": "peuple"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean Lassalle"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.4096936",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.2562476",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.107758984",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.04303957",
+                                "name": "millions"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.25252122",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.13019213",
+                                "name": "vie"
+                            },
+                            {
+                                "size": "0.1098048",
+                                "name": "jour"
+                            },
+                            {
+                                "size": "0.087443955",
+                                "name": "chaîne"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.2038906",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.17792651",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.117182136",
+                                "name": "ukraine"
+                            },
+                            {
+                                "size": "0.0825407",
+                                "name": "société"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.14084437",
+                                "name": "partout"
+                            },
+                            {
+                                "size": "0.13882668",
+                                "name": "discours"
+                            },
+                            {
+                                "size": "0.11586129",
+                                "name": "youtube"
+                            },
+                            {
+                                "size": "0.06808518",
+                                "name": "honneur"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Emmanuel Macron"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.04082008",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.031466804",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.029443255",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.015345908",
+                                "name": "politique"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.065539196",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.024692642",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.019862724",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.016839042",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.040777218",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.02956875",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.016375445",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.0154739935",
+                                "name": "cole"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.02233579",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.016231397",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.015147266",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.014522469",
+                                "name": "campagne"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean-Luc Mélenchon"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.4026364",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.1177521",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.038352963",
+                                "name": "tait"
+                            },
+                            {
+                                "size": "0.032791603",
+                                "name": "invité"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08758346",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.060577944",
+                                "name": "peuple"
+                            },
+                            {
+                                "size": "0.04612953",
+                                "name": "présidentielle"
+                            },
+                            {
+                                "size": "0.04447797",
+                                "name": "défense"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.13615131",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.070833124",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.060276117",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.04835017",
+                                "name": "grand"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.18656434",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.11319419",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.08163051",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.062059347",
+                                "name": "politique"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Valérie Pécresse"
+            },
+            {
+                "children": [],
+                "name": "Philippe Poutou"
+            },
+            {
+                "children": [],
+                "name": "Fabien Roussel"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.201846",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.0555324",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.0467933",
+                                "name": "tat"
+                            },
+                            {
+                                "size": "0.0440629",
+                                "name": "jamais"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.11121083",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.08020008",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.06097271",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.05439712",
+                                "name": "femmes"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.23482361",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.10458851",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.05441081",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.04629451",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08358083",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.05455263",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.037624132",
+                                "name": "peuple"
+                            },
+                            {
+                                "size": "0.037366938",
+                                "name": "enfants"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Éric Zemmour"
+            }
+        ],
+        "name": "root"
+    },
+    "instagram": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.0471587",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.04334798",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.036671918",
+                                "name": "meeting"
+                            },
+                            {
+                                "size": "0.032400787",
+                                "name": "qu'il"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.15687358",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.049454335",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.046709098",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.046685945",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08423365",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.07178749",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.046722606",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.041471608",
+                                "name": "monde"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.24848121",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.072668426",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.05398716",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.039584797",
+                                "name": "face"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nathalie Arthaud"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.057677817",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.051600087",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.0409224",
+                                "name": "campagne"
+                            },
+                            {
+                                "size": "0.027103374",
+                                "name": "présidentielle"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.117503814",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.07524026",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.04897",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.043466296",
+                                "name": "monde"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.19793561",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.12379788",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.07489498",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.05415722",
+                                "name": "emmanuel"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.053227946",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.048867233",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.042174302",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.03848914",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nicolas Dupont-Aignan"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.08043917",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.043819007",
+                                "name": "face"
+                            },
+                            {
+                                "size": "0.04350539",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.04095598",
+                                "name": "cole"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.15116192",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.08087283",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.05042102",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.034307823",
+                                "name": "prix"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.084083565",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.054949038",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.050934143",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.04808269",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.27860725",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.04201189",
+                                "name": "propose"
+                            },
+                            {
+                                "size": "0.041123856",
+                                "name": "campagne"
+                            },
+                            {
+                                "size": "0.038040947",
+                                "name": "jamais"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Anne Hidalgo"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.019963235",
+                                "name": "prix"
+                            },
+                            {
+                                "size": "0.018166587",
+                                "name": "gouvernement"
+                            },
+                            {
+                                "size": "0.016339423",
+                                "name": "programme"
+                            },
+                            {
+                                "size": "0.015593493",
+                                "name": "droit"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.04231487",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.030515112",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.029411843",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.028048227",
+                                "name": "ans"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.104148634",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.058788054",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.024062011",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.019379525",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.03506753",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.03218946",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.029834326",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.028181786",
+                                "name": "soir"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Yannick Jadot"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.31322184",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.11886252",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.08571819",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.04021131",
+                                "name": "peuple"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.10701024",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.07741238",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.059474327",
+                                "name": "qu'il"
+                            },
+                            {
+                                "size": "0.055569537",
+                                "name": "demain"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.11009956",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.06487553",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.05241815",
+                                "name": "face"
+                            },
+                            {
+                                "size": "0.052039128",
+                                "name": "grand"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.2614238",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.11920465",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.05327382",
+                                "name": "projet"
+                            },
+                            {
+                                "size": "0.038258594",
+                                "name": "république"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Marine Le Pen"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.045182306",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.039036248",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.034422327",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.033701606",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.09936796",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.033051107",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.029571794",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.024434455",
+                                "name": "travail"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.120729335",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.03895503",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.028166523",
+                                "name": "rendez"
+                            },
+                            {
+                                "size": "0.01863744",
+                                "name": "droit"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.069285855",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.059044514",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.04258036",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.033252038",
+                                "name": "faire"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean Lassalle"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.09412018",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.06523364",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.042354766",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.03618313",
+                                "name": "femmes"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08794604",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.05682164",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.03681579",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.030322399",
+                                "name": "travail"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.2019339",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.05758909",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.042956486",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.037607692",
+                                "name": "soir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.03514571",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.030667983",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.029364267",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.025840448",
+                                "name": "tat"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Emmanuel Macron"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.13824603",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.05266073",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.037977193",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.029520702",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.070228554",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.029270133",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.024253855",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.021672873",
+                                "name": "politique"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.047143508",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.041261643",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.031435464",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.030694963",
+                                "name": "ans"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.06804719",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.037418894",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.029533658",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.023413157",
+                                "name": "tat"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean-Luc Mélenchon"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.049434688",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.049295917",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.043693237",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.039203662",
+                                "name": "campagne"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.12809001",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.07757521",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.047147278",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.04254116",
+                                "name": "politique"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.06843227",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.066725805",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.05085955",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.046155438",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.19481225",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.065166146",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.03662022",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.030812224",
+                                "name": "grand"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Valérie Pécresse"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.11111593",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.08929967",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.08900123",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.07900243",
+                                "name": "monde"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.20214939",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.0724038",
+                                "name": "soutien"
+                            },
+                            {
+                                "size": "0.07045527",
+                                "name": "gauche"
+                            },
+                            {
+                                "size": "0.0698061",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.12756036",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.12477473",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.0769962",
+                                "name": "peuple"
+                            },
+                            {
+                                "size": "0.047870327",
+                                "name": "société"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.12234277",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.10676192",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.06853334",
+                                "name": "demain"
+                            },
+                            {
+                                "size": "0.051881358",
+                                "name": "salaires"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Philippe Poutou"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.046463825",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.04054239",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.03166433",
+                                "name": "tat"
+                            },
+                            {
+                                "size": "0.031004827",
+                                "name": "prix"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.039693277",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.03560707",
+                                "name": "rendez"
+                            },
+                            {
+                                "size": "0.030712184",
+                                "name": "propose"
+                            },
+                            {
+                                "size": "0.02911656",
+                                "name": "jamais"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.10346053",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.07367475",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.06277315",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.04717556",
+                                "name": "pays"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.1869667",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.03686631",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.03441902",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.030798823",
+                                "name": "monde"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Fabien Roussel"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.04386223",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.03163188",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.027073557",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.024313875",
+                                "name": "français"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.024513416",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.023076847",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.019474663",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.014074095",
+                                "name": "ukraine"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.09928623",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.041042045",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.024610057",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.020911764",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.030618344",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.028105773",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.024599014",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.022137394",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Éric Zemmour"
+            }
+        ],
+        "name": "root"
+    },
+    "twitter": {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.15300535",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.050896183",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.045535125",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.02973828",
+                                "name": "soir"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.07570089",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.05627262",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.042669993",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.0412534",
+                                "name": "face"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.22911012",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.065342836",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.04252804",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.039423604",
+                                "name": "guerre"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.09417688",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.036352262",
+                                "name": "gouvernement"
+                            },
+                            {
+                                "size": "0.03612726",
+                                "name": "peuple"
+                            },
+                            {
+                                "size": "0.033731144",
+                                "name": "soutien"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nathalie Arthaud"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.07054864",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.032470334",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.022639703",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.019623077",
+                                "name": "direct"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.019617146",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.014586579",
+                                "name": "cole"
+                            },
+                            {
+                                "size": "0.013122346",
+                                "name": "jamais"
+                            },
+                            {
+                                "size": "0.012694965",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.024441624",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.017392293",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.014854322",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.011995983",
+                                "name": "peuple"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.024969645",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.022111943",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.020179328",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.01609997",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Nicolas Dupont-Aignan"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.023758488",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.021061169",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.017809467",
+                                "name": "française"
+                            },
+                            {
+                                "size": "0.01639896",
+                                "name": "gouvernement"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.037496075",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.027040271",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.021403508",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.021023348",
+                                "name": "faire"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.11493988",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.048965808",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.018891495",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.016742436",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.02947922",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.02398789",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.022411508",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.020836",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Anne Hidalgo"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.015870987",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.012109419",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.009929482",
+                                "name": "soutien"
+                            },
+                            {
+                                "size": "0.009756849",
+                                "name": "matin"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.030453812",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.021961547",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.019112831",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.018774733",
+                                "name": "faire"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.03730699",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.02102721",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.018085424",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.013870502",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.04995913",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.016107082",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.012878498",
+                                "name": "cole"
+                            },
+                            {
+                                "size": "0.011782204",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Yannick Jadot"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.021200052",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.018054888",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.01771357",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.017603846",
+                                "name": "ans"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.032111313",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.023157101",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.017466329",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.016305445",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.014262327",
+                                "name": "monde"
+                            },
+                            {
+                                "size": "0.014087788",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.0140229575",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.013594828",
+                                "name": "faire"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.082420066",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.01863723",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.017535413",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.01535091",
+                                "name": "soir"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Marine Le Pen"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.24534306",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.038805064",
+                                "name": "grand"
+                            },
+                            {
+                                "size": "0.035572983",
+                                "name": "tat"
+                            },
+                            {
+                                "size": "0.034124356",
+                                "name": "française"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.097395375",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.06261167",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.03986665",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.036826428",
+                                "name": "guerre"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.0888067",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.05727455",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.04653903",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.042436164",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.08125298",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.046522643",
+                                "name": "président"
+                            },
+                            {
+                                "size": "0.04454832",
+                                "name": "politique"
+                            },
+                            {
+                                "size": "0.039856456",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean Lassalle"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.034943424",
+                                "name": "face"
+                            },
+                            {
+                                "size": "0.03285581",
+                                "name": "propose"
+                            },
+                            {
+                                "size": "0.024540646",
+                                "name": "place"
+                            },
+                            {
+                                "size": "0.021438157",
+                                "name": "jeunes"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.15473783",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.071860395",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.045116726",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.027227236",
+                                "name": "président"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.057533424",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.039852045",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.032027133",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.031919092",
+                                "name": "femmes"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.04570675",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.043204002",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.028199123",
+                                "name": "pouvoir"
+                            },
+                            {
+                                "size": "0.0258554",
+                                "name": "guerre"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Emmanuel Macron"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.010046073",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.010037669",
+                                "name": "ukraine"
+                            },
+                            {
+                                "size": "0.010033103",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.009884596",
+                                "name": "union"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.029191539",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.013081303",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.012290565",
+                                "name": "propose"
+                            },
+                            {
+                                "size": "0.011571608",
+                                "name": "prix"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.038956884",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.022191215",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.020238053",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.014667206",
+                                "name": "soir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.03780452",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.024201134",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.017481986",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.016723182",
+                                "name": "français"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Jean-Luc Mélenchon"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.040325344",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.024184618",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.017851118",
+                                "name": "prix"
+                            },
+                            {
+                                "size": "0.016094495",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.09901224",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.030267136",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.028051378",
+                                "name": "pays"
+                            },
+                            {
+                                "size": "0.026984405",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.019550538",
+                                "name": "europe"
+                            },
+                            {
+                                "size": "0.017358184",
+                                "name": "cole"
+                            },
+                            {
+                                "size": "0.015660966",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.014863601",
+                                "name": "enfants"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.052029245",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.037523873",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.03177815",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.029169567",
+                                "name": "retrouvez"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Valérie Pécresse"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.047932807",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.038455654",
+                                "name": "cole"
+                            },
+                            {
+                                "size": "0.030119227",
+                                "name": "gauche"
+                            },
+                            {
+                                "size": "0.030005345",
+                                "name": "programme"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.042068858",
+                                "name": "travail"
+                            },
+                            {
+                                "size": "0.039641354",
+                                "name": "tat"
+                            },
+                            {
+                                "size": "0.035099298",
+                                "name": "peuple"
+                            },
+                            {
+                                "size": "0.030587154",
+                                "name": "place"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.19560497",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.04533035",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.03642858",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.036408402",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.07831147",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.06905458",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.060352426",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.035508726",
+                                "name": "guerre"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Philippe Poutou"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.06331911",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.038762543",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.027953895",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.019011261",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.09242043",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.021111697",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.019651257",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.018086014",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.016779019",
+                                "name": "cole"
+                            },
+                            {
+                                "size": "0.014578957",
+                                "name": "gouvernement"
+                            },
+                            {
+                                "size": "0.013639675",
+                                "name": "soutien"
+                            },
+                            {
+                                "size": "0.012633094",
+                                "name": "président"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.03657066",
+                                "name": "veux"
+                            },
+                            {
+                                "size": "0.015091648",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.015051291",
+                                "name": "faire"
+                            },
+                            {
+                                "size": "0.011244963",
+                                "name": "ans"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Fabien Roussel"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "size": "0.026603037",
+                                "name": "macron"
+                            },
+                            {
+                                "size": "0.019193975",
+                                "name": "emmanuel"
+                            },
+                            {
+                                "size": "0.015156539",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.0130549595",
+                                "name": "pouvoir"
+                            }
+                        ],
+                        "name": "topic_0"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.018592535",
+                                "name": "direct"
+                            },
+                            {
+                                "size": "0.0170637",
+                                "name": "retrouvez"
+                            },
+                            {
+                                "size": "0.014928577",
+                                "name": "soir"
+                            },
+                            {
+                                "size": "0.01344191",
+                                "name": "rendez"
+                            }
+                        ],
+                        "name": "topic_1"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.013362802",
+                                "name": "femmes"
+                            },
+                            {
+                                "size": "0.01304126",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.012414884",
+                                "name": "guerre"
+                            },
+                            {
+                                "size": "0.01025794",
+                                "name": "europe"
+                            }
+                        ],
+                        "name": "topic_2"
+                    },
+                    {
+                        "children": [
+                            {
+                                "size": "0.047267776",
+                                "name": "france"
+                            },
+                            {
+                                "size": "0.020214343",
+                                "name": "français"
+                            },
+                            {
+                                "size": "0.019837951",
+                                "name": "ans"
+                            },
+                            {
+                                "size": "0.016850224",
+                                "name": "veux"
+                            }
+                        ],
+                        "name": "topic_3"
+                    }
+                ],
+                "name": "Éric Zemmour"
+            }
+        ],
+        "name": "root"
+    }
+}

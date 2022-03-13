@@ -76,6 +76,7 @@ only screen and (max-device-width : 720px){
 only screen and (max-device-width : 530px){
     .galleryItem {width: 21%;}
     .labels{font-size: 9px;}
+    table{font-size: 11px;}
 }
 
 @media only screen and (max-width : 320px),
@@ -115,12 +116,6 @@ h6{
 .center{
     text-align: center;
 }
-.axisWhite .tick text{
-    fill: red;
-}
-.axisWhite .tick line{
-    fill: red;
-}
 .boxforviz{
     padding: 15px;
     -webkit-border-radius: 10px;
@@ -128,3 +123,46 @@ h6{
     border-radius: 10px;
 }
 
+text {
+  font: 10px sans-serif;
+  padding-bottom: 5pt;
+}
+.hide_text{
+    display: none;
+}
+text.party {
+  fill: black;
+  font-size:14px;
+}
+text.leaf{
+  font-size:9px;
+  fill:black;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #999;
+  pointer-events: all;
+}
+
+circle.cliquable:hover{
+  stroke: black;
+}
+circle.cliquable{
+  fill-opacity: .7;
+}
+
+circle.parent {
+  fill: #e0f2f1 ;
+  fill-opacity: .1;
+  stroke: #e0f2f1 ;
+}
+
+circle.leaf {
+  pointer-events: none;
+  fill: white;
+  fill-opacity: .5;
+}
+#ldadiv{
+    background: #e7ecf2;
+}

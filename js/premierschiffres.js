@@ -96,10 +96,11 @@ $( "#formcountposts" ).change(function() {
 
 // -----
 
-function multiplebarchart(datapath, divid){
+function multiplebarchart(datapath, id){
     d3.csv(datapath).then(function(data) {
-       const svg = d3.select(divid)
-       .append("svg")
+       const svg = d3.select("#premierschiffreslikes").append("svg")
+          .attr("id",id)
+          .style("display", id.localeCompare("meanlikesid")? "block" : "none")
           .attr("width", width  + margin.left + margin.right )
           .attr("height", height + margin.top + margin.bottom )
           .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -144,6 +145,19 @@ function multiplebarchart(datapath, divid){
               });
         }
     });
+
 }
-multiplebarchart("sources/data/totallikes_to_03_10_2022.csv","#premierschiffreslikes")
-multiplebarchart("sources/data/meanlikes_to_03_10_2022.csv","#premierschiffresmeanlikes")
+
+$( "#formlikes" ).change(function() {
+    var totalormean = $("input[name='likeform']:checked").val();
+    if (totalormean.localeCompare("meanlikesid")){
+        $( "#meanlikesid").css("display", "none");
+        $( "#totallikesid").css("display", "block");
+    }else{
+        $( "#totallikesid").css("display", "none");
+        $( "#meanlikesid").css("display", "block");
+    }
+});
+multiplebarchart("sources/data/totallikes_to_03_10_2022.csv", "totallikesid");
+multiplebarchart("sources/data/meanlikes_to_03_10_2022.csv", "meanlikesid")
+
