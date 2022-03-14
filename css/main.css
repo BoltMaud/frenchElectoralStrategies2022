@@ -133,6 +133,7 @@ text {
 text.party {
   fill: black;
   font-size:14px;
+    z-index: 111;
 }
 text.leaf{
   font-size:9px;

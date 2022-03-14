@@ -803,11 +803,21 @@
                 "name": "Valérie Pécresse"
             },
             {
-                "children": [],
+                "children": [ {
+                        "children": [
+                    {
+                    "size": "1",
+                    "name": ""}]}],
                 "name": "Philippe Poutou"
             },
             {
-                "children": [],
+                "children": [
+                    {
+                        "children": [
+                    {
+                    "size": "1",
+                    "name": ""}]}
+                ],
                 "name": "Fabien Roussel"
             },
             {

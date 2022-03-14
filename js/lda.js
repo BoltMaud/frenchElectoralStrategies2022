@@ -12,7 +12,7 @@ var colors_side={
     "Yannick Jadot":"#008000",
     "Éric Zemmour":"#191970"
 };
-update("mars1");
+update("twitter");
   var w = document.getElementById('middlePremiersChiffres').getBoundingClientRect().width,
       h = w,
       r = w,
@@ -22,7 +22,7 @@ update("mars1");
       root;
 
   var pack = d3.pack()
-      .size([r, r]).padding(0);
+      .size([r, r]).padding(0.6);
 
   var vis = d3.select("body").select("#svg_div").append("svg")
       .attr("width", w)
@@ -30,9 +30,9 @@ update("mars1");
     .append("svg:g")
       .attr("transform", "translate(" + (w - r) / 2 + "," + (h - r) / 2 + ")");
 
-function update(mois){
+function update(reseau){
   d3.json("sources/data/lda_03_10_2022.json").then(function(data) {
-    root = d3.hierarchy(data["twitter"]).sum(function(d) {
+    root = d3.hierarchy(data[reseau]).sum(function(d) {
     return parseFloat(d.size); });
 
    var nodes = pack(root);
@@ -110,10 +110,7 @@ function update(mois){
                 }
                 })
         .on("click", function(d) {
-                    if(d.parent.data.name=="root"){
-                        return zoom(node == d ? (root) : (d));
-                    }
-                  });
+                    return zoom(node == d ? (root) : (d));});
        circle.exit()
         .transition()
         .duration(100)
@@ -180,14 +177,15 @@ function update(mois){
 var zoomed=0;
 var node_zoom;
 function zoom(d) {
+  node_zoom = d;
+  if (d!=node){
+  d = d.originalTarget.__data__;}
   zoomed ? zoomed=0 : zoomed=1;
-  node_zoom=d;
   var k = r / d.r / 2;
   xlda.domain([d.x - d.r, d.x + d.r]);
   ylda.domain([d.y - d.r, d.y + d.r]);
-
   var t = vis.transition()
-      .duration(d3.event.altKey ? 7500 : 750);
+      .duration( 750 );
 
   t.selectAll("circle")
       .attr("cx", function(d) { return xlda(d.x); })
@@ -199,7 +197,14 @@ function zoom(d) {
       .attr("y", function(d) { return ylda(d.y); });
 
   node = d;
-  d3.event.stopPropagation();
 }
+
+$( "#formlda" ).change(function() {
+    if(zoomed){
+        zoom(node);
+    }
+    var reseau = $("input[name='lda']:checked").val();
+    update(reseau);
+})
 
 
